@@ -243,7 +243,7 @@ public class inter extends javax.swing.JFrame {
         num2 = Integer.parseInt(caja2.getText());
         res=num1-num2;
         cajaresultado.setText(res+"");
-        // TODO add your handling code here:        // TODO add your handling code here:
+
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
